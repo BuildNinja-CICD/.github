@@ -1,6 +1,6 @@
 # BuildNinja
 
-![BuildNinja](https://buildninja.grapehub.io/img/logo.svg)
+
 
 **Simple CI/CD for teams who'd rather ship code than configure pipelines.**
 
