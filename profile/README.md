@@ -1,5 +1,9 @@
 # BuildNinja
 
+<p align="center">
+  <img src="https://buildninja.grapehub.io/img/logo.svg" alt="BuildNinja" width="200"/>
+</p>
+
 **Simple CI/CD for teams who'd rather ship code than configure pipelines.**
 
 BuildNinja is a self-hosted CI/CD platform—a simpler alternative to Jenkins for mid-market engineering teams (10-50 engineers). Get enterprise-grade automation without enterprise complexity.
