@@ -1,8 +1,6 @@
 # BuildNinja
 
-<p align="center">
-  <img src="https://buildninja.grapehub.io/img/logo.svg" alt="BuildNinja" width="200"/>
-</p>
+![BuildNinja](https://buildninja.grapehub.io/img/logo.svg)
 
 **Simple CI/CD for teams who'd rather ship code than configure pipelines.**
 
