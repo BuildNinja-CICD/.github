@@ -17,7 +17,8 @@
 [![Documentation](https://img.shields.io/badge/Docs-buildninja.grapehub.io%2Fdocs-green)](https://buildninja.grapehub.io/docs)
 [![Docker Hub](https://img.shields.io/badge/Docker-grapehub%2Fbuildninja--server-blue?logo=docker)](https://hub.docker.com/r/grapehub/buildninja-server)
 
-<img src="https://github.com/user-attachments/assets/0a34ed3b-0a61-434a-af51-6fd974ff467e" alt="BuildNinja Dashboard" width="100%"/>
+
+![Dashboard](https://github.com/user-attachments/assets/cbc0332e-4c4f-486b-8d7f-e859b39d88f9)
 
 ---
 
