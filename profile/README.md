@@ -1,4 +1,5 @@
-# BuildNinja
+# <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/7b9ecac8-ecf3-4f94-a540-9c59829f250e" />
+ BuildNinja
 
 
 
