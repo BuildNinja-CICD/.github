@@ -1,8 +1,17 @@
-<img src="https://github.com/user-attachments/assets/7b9ecac8-ecf3-4f94-a540-9c59829f250e" alt="BuildNinja" width="200"/>
-
-**Simple CI/CD for teams who'd rather ship code than configure pipelines.**
-
+<table>
+<tr>
+<td width="200">
+<img src="https://github.com/user-attachments/assets/7b9ecac8-ecf3-4f94-a540-9c59829f250e" alt="BuildNinja" width="150"/>
+<br/>
+<strong>BuildNinja</strong>
+</td>
+<td>
+<strong>Simple CI/CD for teams who'd rather ship code than configure pipelines.</strong>
+<br/><br/>
 BuildNinja is a self-hosted CI/CD platform—a simpler alternative to Jenkins for mid-market engineering teams (10-50 engineers). Get enterprise-grade automation without enterprise complexity.
+</td>
+</tr>
+</table>
 
 [![Website](https://img.shields.io/badge/Website-buildninja.grapehub.io-blue)](https://buildninja.grapehub.io)
 [![Documentation](https://img.shields.io/badge/Docs-buildninja.grapehub.io%2Fdocs-green)](https://buildninja.grapehub.io/docs)
