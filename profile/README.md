@@ -3,7 +3,7 @@
 <td width="200">
 <img src="https://github.com/user-attachments/assets/7b9ecac8-ecf3-4f94-a540-9c59829f250e" alt="BuildNinja" width="150"/>
 <br/>
-
+<strong>BuildNinja</strong>
 </td>
 <td>
 <strong>Simple CI/CD for teams who'd rather ship code than configure pipelines.</strong>
