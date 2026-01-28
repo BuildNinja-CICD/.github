@@ -10,6 +10,9 @@ BuildNinja is a self-hosted CI/CD platform—a simpler alternative to Jenkins fo
 [![Documentation](https://img.shields.io/badge/Docs-buildninja.grapehub.io%2Fdocs-green)](https://buildninja.grapehub.io/docs)
 [![Docker Hub](https://img.shields.io/badge/Docker-grapehub%2Fbuildninja--server-blue?logo=docker)](https://hub.docker.com/r/grapehub/buildninja-server)
 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a34ed3b-0a61-434a-af51-6fd974ff467e" />
+
 ---
 
 ## Get Started in 5 Minutes
